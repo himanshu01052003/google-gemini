@@ -17,8 +17,12 @@ Follow the steps below to set up and use the Gemini API in your project.
 
 ###Clone the repository to your local machine:
 
-git clone https://github.com/<your-username>/<your-repository>.git
-cd <your-repository>
+-git clone https://github.com/himanshu01052003/google-gemini.git
+-Start wampserver
+-Go to localhost/google-gemini
+-Provide Input
+-Recieve Response 
+-Done
 
 ###Configuration
 Open the googleGemini/gemini.php file.
