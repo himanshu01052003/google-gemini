@@ -13,14 +13,14 @@ Follow the steps below to set up and use the Gemini API in your project.
 - [API Key and Secret](https://docs.gemini.com/rest-api#getting-started)
 - [Programming Language](https://www.python.org/)
 
-### Installation
+## Installation
 
-####Clone the repository to your local machine:
+###Clone the repository to your local machine:
 
 git clone https://github.com/<your-username>/<your-repository>.git
 cd <your-repository>
 
-####Configuration
+###Configuration
 Open the googleGemini/gemini.php file.
 
 Replace <YOUR_API_KEY> and with your Gemini API key and secret, respectively.
@@ -28,8 +28,8 @@ Replace <YOUR_API_KEY> and with your Gemini API key and secret, respectively.
 ## To-Do List
 
 1. **Text Interaction**
-   - [ ] Implement text interaction functionality.
-   - [ ] Test and ensure text interaction is working as expected.
+   - [x] Implement text interaction functionality.
+   - [x] Test and ensure text interaction is working as expected.
 
 2. **Image Interaction**
    - [ ] Develop image interaction support.
