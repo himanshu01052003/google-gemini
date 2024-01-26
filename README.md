@@ -32,24 +32,24 @@ Replace <YOUR_API_KEY> and with your Gemini API key and secret, respectively.
 ## To-Do List
 
 1. **Text Interaction**
-   - [x] Implement text interaction functionality.
-   - [x] Test and ensure text interaction is working as expected.
+   - <input type="checkbox" id="task1" disabled checked style="color: green;"> <label for="task1">Implement text interaction functionality.</label>
+   - <input type="checkbox" id="task2" disabled checked style="color: green;"> <label for="task2">Test and ensure text interaction is working as expected.</label>
 
 2. **Image Interaction**
-   - [ ] Develop image interaction support.
-   - [ ] Verify image interaction integration.
+   - <input type="checkbox" id="task3" disabled> <label for="task3">Develop image interaction support.</label>
+   - <input type="checkbox" id="task4" disabled> <label for="task4">Verify image interaction integration.</label>
 
 3. **Add More Features**
-   - [ ] Identify and brainstorm additional features to enhance project capabilities.
-   - [ ] Prioritize and implement new features.
+   - <input type="checkbox" id="task5" disabled> <label for="task5">Identify and brainstorm additional features to enhance project capabilities.</label>
+   - <input type="checkbox" id="task6" disabled> <label for="task6">Prioritize and implement new features.</label>
 
 4. **Improve Error Handling**
-   - [ ] Review and enhance error handling mechanisms.
-   - [ ] Implement robust error messages for better user understanding.
+   - <input type="checkbox" id="task7" disabled> <label for="task7">Review and enhance error handling mechanisms.</label>
+   - <input type="checkbox" id="task8" disabled> <label for="task8">Implement robust error messages for better user understanding.</label>
 
 5. **Enhance Documentation**
-   - [ ] Expand the README.md file to provide comprehensive information about the project.
-   - [ ] Include code comments for better code understanding.
+   - <input type="checkbox" id="task9" disabled> <label for="task9">Expand the README.md file to provide comprehensive information about the project.</label>
+   - <input type="checkbox" id="task10" disabled> <label for="task10">Include code comments for better code understanding.</label>
 
 ## How to Contribute
 
