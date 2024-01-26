@@ -13,18 +13,18 @@ Follow the steps below to set up and use the Gemini API in your project.
 - [API Key and Secret](https://docs.gemini.com/rest-api#getting-started)
 - [Programming Language](https://www.python.org/)
 
-## Installation
+##  Installation
 
-###Clone the repository to your local machine:
+### Clone the repository to your local machine:
 
--git clone https://github.com/himanshu01052003/google-gemini.git
--Start wampserver
--Go to localhost/google-gemini
--Provide Input
--Recieve Response 
--Done
+1. git clone https://github.com/himanshu01052003/google-gemini.git
+2. Start wampserver
+3. Go to localhost/google-gemini
+4. Provide Input
+5. Recieve Response 
+6. Done
 
-###Configuration
+## Configuration
 Open the googleGemini/gemini.php file.
 
 Replace <YOUR_API_KEY> and with your Gemini API key and secret, respectively.
