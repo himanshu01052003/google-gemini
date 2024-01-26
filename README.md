@@ -11,7 +11,7 @@ Follow the steps below to set up and use the Gemini API in your project.
 
 - [Gemini Account](https://www.gemini.com/)
 - [API Key and Secret](https://docs.gemini.com/rest-api#getting-started)
-- [Programming Language](https://www.php.org/)
+- [Programming Language](https://www.php.net/)
 
 ##  Installation
 
